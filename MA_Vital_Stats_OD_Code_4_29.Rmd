@@ -34,7 +34,7 @@ library(calendR)
 library(progress)
 `%!in%` <- Negate(`%in%`)
 census_api_key(Sys.getenv("CENSUS_API_KEY"))
-#register_google(key = "AIzaSyC-uv165vsZAEM-ovBrK8-7JMVrBRGRSpY")
+
 
 #setwd("/Users/Hannah/Documents/R/Mass-Vital-Statistics")
 setwd("/Users/gvq6rg/OneDrive - Mass General Brigham/Mass Vital Statistics- Death Data/Data")
