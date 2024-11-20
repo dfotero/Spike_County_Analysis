@@ -3,7 +3,7 @@
 **Author**: Daniel Otero-Leon  
 **Date**: 2024-11-20  
 
-This script, `county_spike_analysis.R`, is a comprehensive tool designed to analyze spikes in overdose deaths for the state of Massachusetts and its counties. It integrates spike detection in time series, logistic regression modeling, and visualization techniques to uncover insights into the drugs involved in overdose spikes.
+This script, `county_spike_analysis.R`, is a tool designed to analyze spikes in overdose deaths for the state of Massachusetts and its counties. It integrates spike detection in time series, logistic regression modeling, and visualization techniques to uncover insights into the drugs involved in overdose spikes.
 
 ---
 
